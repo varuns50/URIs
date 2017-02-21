@@ -8,3 +8,7 @@ http://www.mithunvp.com/using-angular-2-asp-net-mvc-5-visual-studio/
 
 Header Fancy
 https://tympanus.net/Development/HeaderEffects/
+
+
+Xamrine- Github demo
+https://github.com/xamarinhq/app-acquaint
