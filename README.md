@@ -12,3 +12,6 @@ https://tympanus.net/Development/HeaderEffects/
 
 Xamrine- Github demo
 https://github.com/xamarinhq/app-acquaint
+
+What's New in Visual Studio 2017
+https://channel9.msdn.com/Events/Connect/2016/159
