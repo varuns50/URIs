@@ -18,3 +18,7 @@ https://channel9.msdn.com/Events/Connect/2016/159
 
 <b>Angular 2 course </b>
 https://www.codeschool.com/courses/accelerating-through-angular-2
+
+
+<b>ASP net CORE with Angular 2 </b>
+http://blog.stevensanderson.com/2016/10/04/angular2-template-for-visual-studio/
