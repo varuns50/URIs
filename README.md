@@ -27,3 +27,7 @@ http://blog.stevensanderson.com/2016/10/04/angular2-template-for-visual-studio/
 
 <b> VS 2017 : asp.net core angular template installation </b>
 https://jonhilton.net/2017/02/21/create-a-vs2017-angular-2-and-net-core-site-using-the-command-line/
+
+
+Free Screen recorder
+https://www.dvdvideosoft.com/products/dvd/Free-Screen-Video-Recorder.htm
