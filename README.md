@@ -31,3 +31,7 @@ https://jonhilton.net/2017/02/21/create-a-vs2017-angular-2-and-net-core-site-usi
 
 Free Screen recorder
 https://www.dvdvideosoft.com/products/dvd/Free-Screen-Video-Recorder.htm
+
+<b>
+Email to database : </b>
+http://www.thinkautomation.com/free-trial.aspx
